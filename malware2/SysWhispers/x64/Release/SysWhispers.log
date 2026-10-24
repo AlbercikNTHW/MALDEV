@@ -1,0 +1,49 @@
+﻿  main.c
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(15,7): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(42,2): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(41,3): warning C4024: 'SetWindowsHookExW': different types for formal and actual parameter 4
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(48,37): warning C4047: 'function': 'UINT' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(48,33): warning C4024: 'GetMessageW': different types for formal and actual parameter 3
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(48,43): warning C4047: 'function': 'UINT' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(48,39): warning C4024: 'GetMessageW': different types for formal and actual parameter 4
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(97,94): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(97,90): warning C4024: 'CreateFileW': different types for formal and actual parameter 6
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(106,66): warning C4244: 'function': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(118,94): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(118,90): warning C4024: 'CreateFileW': different types for formal and actual parameter 6
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(171,8): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(179,8): warning C4244: '=': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(157,53): warning C4244: 'initializing': conversion from 'FLOAT' to 'DWORD', possible loss of data
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(159,26): warning C4047: 'initializing': 'LONGLONG' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(160,26): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(162,26): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(163,3): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(207,45): warning C4244: '=': conversion from 'SIZE_T' to 'BYTE', possible loss of data
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(220,118): warning C4047: 'return': 'BYTE' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(294,72): warning C4047: 'function': 'ULONG' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(294,68): warning C4024: 'NtMapViewOfSection': different types for formal and actual parameter 4
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(294,78): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(294,74): warning C4024: 'NtMapViewOfSection': different types for formal and actual parameter 5
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(294,113): warning C4047: 'function': 'ULONG' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(294,109): warning C4024: 'NtMapViewOfSection': different types for formal and actual parameter 9
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(298,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'SIZE_T'
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(298,9): message : consider using '%lld' in the format string
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(298,9): message : consider using '%Id' in the format string
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(298,9): message : consider using '%I64d' in the format string
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(315,100): warning C4047: 'function': 'ULONG' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(315,96): warning C4024: 'NtCreateThreadEx': different types for formal and actual parameter 7
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(315,106): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(315,102): warning C4024: 'NtCreateThreadEx': different types for formal and actual parameter 8
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(315,112): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(315,108): warning C4024: 'NtCreateThreadEx': different types for formal and actual parameter 9
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(315,118): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(315,114): warning C4024: 'NtCreateThreadEx': different types for formal and actual parameter 10
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(279,13): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(280,12): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\MALDEV01\Desktop\MappingInjection\SysWhispers\main.c(283,15): warning C4244: 'initializing': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+  Generating code
+  1 of 19 functions ( 5.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SysWhispers.vcxproj -> C:\Users\MALDEV01\Desktop\MappingInjection\x64\Release\SysWhispers.exe
